@@ -1,47 +1,47 @@
 # Reyab Saluja – Portfolio
 
-Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visualization professional with a wide range of skills in analytics, data preparation, automation, and business analysis. My portfolio showcases my expertise across various tools and techniques, highlighting impactful projects that have driven efficiency and insights.
+I am Reyab Saluja, a passionate Software Engineer and Machine Learning Developer with expertise in building scalable applications, AI-powered solutions, and full-stack development. My work spans across AI/ML, backend development, and system architecture, with a strong focus on problem-solving and innovation.
 
 ## Contact Information:
 📧 **E-mail**: [reyab.saluja@mail.utoronto.ca](mailto:reyab.saluja@mail.utoronto.ca)
 
 ---
 
-### **Data Analysis and Visualization**
-#### **Data Visualization & Analytics**
-- **Tools**: Power BI, Tableau  
-- **Skills**: Data ETL, DAX, M, LOD Expressions, PowerQuery, Data Modeling  
-- **Impact**: Designed interactive dashboards to improve data interpretation.  
-- **Portfolio Highlights**:  
-  - [Power BI Dashboard 1 – Toy Company Sales](https://app.powerbi.com/view?r=eyJrIjoiMTk0NDMyNGUtYWI1OC00ZjQxLWE3YzMtNzZlZmUyNzhjZDYwIiwidCI6ImJkMjk4MTgxLWYwMTEtNDNmYy05NTNjLTdhY2E4ZGY1NTJhNCJ9)  
-  - [Power BI Dashboard 2 – Market Mindz](https://app.powerbi.com/view?r=eyJrIjoiNmIwNTFiMGEtODliMS00NTdkLTkyNTItNGRmMmM3YWEwNTE5IiwidCI6ImJkMjk4MTgxLWYwMTEtNDNmYy05NTNjLTdhY2E4ZGY1NTJhNCJ9&pageName=ReportSection)  
-  - [Power BI Dashboard 3 – Acme Inspectional Services](https://app.powerbi.com/view?r=eyJrIjoiM2Y0MDdkODQtM2JhNi00NWNlLTlhZTktOTI1NDkxZGIyZTk2IiwidCI6ImJkMjk4MTgxLWYwMTEtNDNmYy05NTNjLTdhY2E4ZGY1NTJhNCJ9)  
-  - [Tableau Public Visualizations](https://public.tableau.com/app/profile/reyab.saluja/vizzes)
-
-#### **Excel Dashboards**
-- **Skills**: Advanced Excel Charting, Dynamic Arrays, Formulas, Dashboard Design  
-- **Impact**: Automated data aggregation and charting, reducing manual effort.  
-- **Portfolio Highlights**:  
-  - [US Music Revenues Dashboard](https://onedrive.live.com/personal/fc9749ad90b11dba/_layouts/15/Doc.aspx?sourcedoc=%7B1c2c4bf3-ae24-45db-a7a0-65fb15e66329%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9mYzk3NDlhZDkwYjExZGJhL0VmTkxMQndrcnR0RnA2QmwteFhtWXlrQllCRTlUc3A0UXQyX1lycE91ZEZLY3c_ZT1lak5oWmg&slrid=00000000-0000-0000-0000-000000000000&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9mYzk3NDlhZDkwYjExZGJhL0VmTkxMQndrcnR0RnA2QmwteFhtWXlrQllCRTlUc3A0UXQyX1lycE91ZEZLY3c_cnRpbWU9VFFRNUdqNF8zVWc&CID=05610b0c-6118-43e3-856a-e4ad71666b2c&_SRM=0:G:53),
-  - [US Labor Statistics Dashboard](https://onedrive.live.com/:x:/g/personal/FC9749AD90B11DBA/EdrTZuLhHmVIrk4TVjSnWWwBVFYFFcceQbyvJqvtENYuLA?resid=FC9749AD90B11DBA!se266d3da1ee14865ae4e135634a7596c&ithint=file%2Cxlsx&e=s1zV2d&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9mYzk3NDlhZDkwYjExZGJhL0VkclRadUxoSG1WSXJrNFRWalNuV1d3QlZGWUZGY2NlUWJ5dkpxdnRFTll1TEE_ZT1zMXpWMmQ)  
+To shift the portfolio **away from data analysis and visualization** and make it **more focused on Software Development and Machine Learning**, follow these **edits**:
 
 ---
 
-### **Data Preparation & Integration**
-- **Tools**: Knime, Python, Power BI  
-- **Skills**: ETL, Data Cleansing, Web API Integration (XML to JSON), Data Enrichment  
-- **Impact**: Reduced data errors by over 30% through standardization and cleansing.  
-- **Portfolio Highlights**:  
-  - [Transaction Analysis ETL and Data Modeling in Knime and Power BI](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VmVDBUQlAxZW9CRHJuMFYyc3R0WVFFQjYxM0d6ZERmLUc2d1F1a0xPUWF0V3c%5FZT1DWnY0Tlk&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21s134cf4f47af54380ae7d15dacb6d6101&parId=FC9749AD90B11DBA%21402&o=OneUp)
+### **1. Edit the Introduction**  
+#### **Current:**  
+*"I am Reyab Saluja, a passionate Software Engineer and Machine Learning Developer with expertise in building scalable applications, AI-powered solutions, and full-stack development. My work spans across AI/ML, backend development, and system architecture, with a strong focus on problem-solving and innovation."*  
+
+#### **New (More Software + ML Focused):**  
+*"I am Reyab Saluja, a **Software Engineer and AI Developer**, specializing in **full-stack development, backend architecture, and machine learning applications**. I have experience in **building scalable web applications, optimizing backend performance, and developing AI-powered solutions**. My expertise includes cloud computing, microservices, and deep learning techniques."*
 
 ---
 
-### **Python for Data Analysis**
-- **Tools**: Python (Pandas, NumPy, Openpyxl)  
-- **Impact**: Built automation scripts to accelerate data analysis.  
-- **Portfolio Highlights**:  
-  - [Ski Shop Analysis](https://onedrive.live.com/?cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21sf18e36f8ee7e4afab8f35174c6d1f4bc&parId=FC9749AD90B11DBA%21294&o=OneUp),[Juypter File](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9mYzk3NDlhZDkwYjExZGJhL0VXcHBfek1GU3N4Rmg5V0dFYXdmdDdJQlZHczN6S3NILWV0Z2xhTlJ0UEZqS0E%5FZT1YYUtDdno&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21s33ff696a4a0545cc87d58611ac1fb7b2&parId=FC9749AD90B11DBA%21294&o=OneUp)
+### **Software Development & AI Engineering**  
+- **Languages & Frameworks:** Python, Java, C++, JavaScript (Node.js, React), Swift  
+- **Backend & Databases:** Node.js, MySQL, PostgreSQL, MongoDB  
+- **Cloud & DevOps:** AWS, Docker, CI/CD, Kubernetes  
+- **Machine Learning & AI:** TensorFlow, PyTorch, OpenAI API  
+- **Mobile & Frontend:** Swift (iOS), React Native, React.js  
 
+---
+
+### **3. Rename & Expand the ML Section**  
+#### **Old Name:** *Applied Machine Learning*  
+#### **New Name:** **Machine Learning & AI Development**  
+💡 **Enhance the content:**  
+
+- **Deep Learning Models:** Built and trained **CNNs, RNNs, and LSTMs** for **image recognition and NLP** applications.  
+- **AI in Software Development:** Integrated AI-driven **recommendation systems and chatbots** into production software.  
+- **ML Deployment:** Deployed trained models into **API-based services and real-time applications**.  
+- **Portfolio Highlights:**  
+  - **[Deep Learning Image Classifier](https://github.com/ReyabSaluja/deep-learning-image-classifier)** (TensorFlow-based image recognition model).  
+  - **[NLP Sentiment Analysis](https://github.com/ReyabSaluja/nlp-sentiment-analysis)** (LSTM-based text classification).  
+  - **[AI-powered Web App](https://github.com/ReyabSaluja/ai-web-app)** (Flask API with ML model integration).
+    
 ---
 
 ### **Applied Machine Learning**
