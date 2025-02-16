@@ -7,10 +7,6 @@ I am Reyab Saluja, a passionate Software Engineer and Machine Learning Developer
 
 ---
 
-To shift the portfolio **away from data analysis and visualization** and make it **more focused on Software Development and Machine Learning**, follow these **edits**:
-
----
-
 ### **1. Edit the Introduction**  
 #### **Current:**  
 *"I am Reyab Saluja, a passionate Software Engineer and Machine Learning Developer with expertise in building scalable applications, AI-powered solutions, and full-stack development. My work spans across AI/ML, backend development, and system architecture, with a strong focus on problem-solving and innovation."*  
