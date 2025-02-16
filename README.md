@@ -16,21 +16,6 @@ I am Reyab Saluja, a passionate Software Engineer and Machine Learning Developer
 
 ---
 
-### **3. Rename & Expand the ML Section**  
-#### **Old Name:** *Applied Machine Learning*  
-#### **New Name:** **Machine Learning & AI Development**  
-💡 **Enhance the content:**  
-
-- **Deep Learning Models:** Built and trained **CNNs, RNNs, and LSTMs** for **image recognition and NLP** applications.  
-- **AI in Software Development:** Integrated AI-driven **recommendation systems and chatbots** into production software.  
-- **ML Deployment:** Deployed trained models into **API-based services and real-time applications**.  
-- **Portfolio Highlights:**  
-  - **[Deep Learning Image Classifier](https://github.com/ReyabSaluja/deep-learning-image-classifier)** (TensorFlow-based image recognition model).  
-  - **[NLP Sentiment Analysis](https://github.com/ReyabSaluja/nlp-sentiment-analysis)** (LSTM-based text classification).  
-  - **[AI-powered Web App](https://github.com/ReyabSaluja/ai-web-app)** (Flask API with ML model integration).
-    
----
-
 ### **Applied Machine Learning**
 - **Tools**: Knime, Orange  
 - **Techniques**: Random Forest, Naïve Bayes, Logistic Regression  
