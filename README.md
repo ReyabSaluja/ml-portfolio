@@ -7,15 +7,6 @@ I am Reyab Saluja, a passionate Software Engineer and Machine Learning Developer
 
 ---
 
-### **1. Edit the Introduction**  
-#### **Current:**  
-*"I am Reyab Saluja, a passionate Software Engineer and Machine Learning Developer with expertise in building scalable applications, AI-powered solutions, and full-stack development. My work spans across AI/ML, backend development, and system architecture, with a strong focus on problem-solving and innovation."*  
-
-#### **New (More Software + ML Focused):**  
-*"I am Reyab Saluja, a **Software Engineer and AI Developer**, specializing in **full-stack development, backend architecture, and machine learning applications**. I have experience in **building scalable web applications, optimizing backend performance, and developing AI-powered solutions**. My expertise includes cloud computing, microservices, and deep learning techniques."*
-
----
-
 ### **Software Development & AI Engineering**  
 - **Languages & Frameworks:** Python, Java, C++, JavaScript (Node.js, React), Swift  
 - **Backend & Databases:** Node.js, MySQL, PostgreSQL, MongoDB  
